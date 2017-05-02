@@ -1,0 +1,6 @@
+a = input("0과 1000 사이의 숫자를 입력하세요:")
+b = int(a[0])
+c = int(a[1])
+d = int(a[2])
+add = str(b+c+d)
+print('이 자릿수의 합은' + add + '입니다.')
